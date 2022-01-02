@@ -1,0 +1,22 @@
+{
+  "name": "excelplas_new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "keywords": [],
+  "description": ""
+}
